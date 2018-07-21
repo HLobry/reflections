@@ -1,1 +1,9 @@
 intialize repsoitory, set up git framework
+
+put files in staging area, after change, then add commment depicting change
+
+Branches are useful for creating distinct changes that you can separate and add in later at will
+
+Branch diagrams are good for visualising branch structure and understanding the parents or other such history of previous commits.
+
+merging two branches together completes all changes made after the 'branching'.
